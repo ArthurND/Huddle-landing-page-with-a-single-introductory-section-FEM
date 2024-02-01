@@ -6,3 +6,11 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+@media screen and (min-width: 376px) {
+  body {
+    width: 100%;
+    background-image: url("../images/bg-desktop.svg");
+    background-color: hsl(257, 40%, 49%);
+  }
+}

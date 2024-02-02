@@ -53,4 +53,18 @@
     background-color: hsl(300, 69%, 71%);
     color: white;
   }
+
+  footer {
+    display: flex;
+    justify-content: end;
+    padding-right: 5%;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 100px;
+    color: white;
+  }
+
+  footer img {
+    padding: 1% 0;
+  }
 }
